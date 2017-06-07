@@ -1,0 +1,16 @@
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\obj\Debug\PTS2.csprojResolveAssemblyReference.cache
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\PTS2.dll.config
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\PTS2.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\PTS2.pdb
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\EntityFramework.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\EntityFramework.SqlServer.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\PTS2.Business.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\PTS2.Common.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\PTS2.Data.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\PTS2.Business.pdb
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\PTS2.Common.pdb
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\PTS2.Data.pdb
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\EntityFramework.xml
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\bin\EntityFramework.SqlServer.xml
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\obj\Debug\PTS2.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2\obj\Debug\PTS2.pdb

@@ -1,0 +1,10 @@
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Common\bin\Debug\PTS2.Common.dll.config
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Common\bin\Debug\PTS2.Common.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Common\bin\Debug\PTS2.Common.pdb
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Common\bin\Debug\EntityFramework.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Common\bin\Debug\EntityFramework.xml
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Common\obj\Debug\PTS2.Common.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Common\obj\Debug\PTS2.Common.pdb
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Common\obj\Debug\PTS2.Common.csprojResolveAssemblyReference.cache

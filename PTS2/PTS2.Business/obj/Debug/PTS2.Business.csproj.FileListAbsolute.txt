@@ -1,0 +1,14 @@
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\bin\Debug\PTS2.Business.dll.config
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\bin\Debug\PTS2.Business.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\bin\Debug\PTS2.Business.pdb
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\bin\Debug\EntityFramework.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\bin\Debug\PTS2.Common.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\bin\Debug\PTS2.Data.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\bin\Debug\PTS2.Common.pdb
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\bin\Debug\PTS2.Data.pdb
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\bin\Debug\EntityFramework.xml
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\obj\Debug\PTS2.Business.csprojResolveAssemblyReference.cache
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\obj\Debug\PTS2.Business.dll
+C:\Users\EMREAKTURK\documents\visual studio 2013\Projects\PTS2\PTS2.Business\obj\Debug\PTS2.Business.pdb
